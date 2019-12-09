@@ -1,0 +1,21 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Aadil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aadil97/chat-app-node/issues"
+  },
+  "homepage": "https://github.com/Aadil97/chat-app-node#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
